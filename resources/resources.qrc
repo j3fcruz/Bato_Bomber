@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="/">
+    <file>../assets/icon/icon.png</file>
+    <file>../assets/icon/bato_bomber.png</file>
+    <file>../assets/icon/icon.ico</file>
+
+    <file>../assets/sounds/place_bomb.wav</file>
+    <file>../assets/sounds/explosion.wav</file>
+    <file>../assets/sounds/level_complete.wav</file>
+    <file>../assets/sounds/enemy_dead.wav</file>
+    <file>../assets/sounds/hero_dead.wav</file>
+    <file>../assets/sounds/powerup.wav</file>
+    <file>../assets/sounds/background_music.ogg</file>
+  </qresource>
+</RCC>
